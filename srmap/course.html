@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="with=device-width,initial-scale=1.0">
+	<title>course</title>
+    
+	<link rel="stylesheet" href="style.css">
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"  rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+</head>
+<body>
+	<section class="sub-header">
+		<nav>
+			<a href="index.html"></a>
+			<div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hideMenu()"></i>
+				<ul>
+					<li><a href="index.html">HOME</a></li>
+					<li><a href="about.html">ABOUT</a></li>
+					<li><a href="course.html">COURSE</a></li>
+					<li><a href="contact.html">CONTACT</a></li>
+					<li><a href="login.php">STUDENT VOICE</a></li>
+				</ul>
+			</div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+		</nav>
+        <h1>Our Courses and Facilities</h1>
+	</section>
+<!-------------------------------------------Course------------------------------------------->
+<section class="course">
+	<h1>Academic Programs</h1>
+    <h7>Discover a world of excellence at SRM University-AP!<br> We believe education has the power to change lives, and our interdisciplinary, research-driven undergraduate, postgraduate,<br>and doctoral programs provide global exposure and entrepreneurial opportunities.<br>As a vibrant intellectual hub, we prepare students to thrive in an ever-evolving world.
+	<br>SRM University-AP offers a variety of distinguished academic programs. Here are three of its top:<br></h7>
+	<div class="row">
+		<div class="course-col">
+			<h3>B.Tech. in Computer Science and Engineering (CSE)</h3>
+			<p>This program provides specializations in areas such as Artificial Intelligence & Machine Learning, Cyber Security, Cloud Computing, Big Data Analytics, and the Internet of Things, preparing students for the modern IT industry. 
+			</p>
+		</div>
+		<div class="course-col">
+			<h3>B.Tech. in Electronics and Communication Engineering (ECE)</h3>
+			<p>Offering specializations like VLSI & Embedded Systems, Advanced Communication Systems, and Signal/Image Processing using AI, this program equips students with skills relevant to hardware and communication sectors.</p>
+		</div>
+		<div class="course-col">
+			<h3> B.Tech. in Mechanical Engineering</h3><br>
+        <p>With focuses on Additive Manufacturing, Robotics/Mechatronics, Advanced Materials, and Automotive Engineering, this program prepares students for careers in mechanical, manufacturing, and automotive industries.</p>		
+</div>
+	</div>
+</section>
+<!-------------------------------------------Facilities------------------------------------------->
+<section class="facilities">
+	<h1>Our Facilities</h1>
+	<h7>We provide the best quality education to our students through well experienced and tallented teachers. Besides this, we <br>provide wide range of scholarship to the students on various aspects</h7><br><br>
+	<div class="row">
+		<div class="facilities-col">
+			<img src="images/library.jpg">
+			<h3>World Class Library</h3><h5>SRM University-AP's world-class library offers extensive books, e-journals, and digital resources like NPTEL and Swayam. It features modern infrastructure with RFID automation, fire alarms, and CCTV security. User-friendly services include OPAC for easy search and the mLibrary app, supporting research, learning, and innovation.</h5>
+		</div>
+		<div class="facilities-col">
+			<img src="images/lab.jpg">
+			<h3>Well-equipped Lab</h3><h5>SRM University-AP features state-of-the-art labs across disciplines, including Electronics, Communication Systems, Biology, Physics, and Environmental Science. Equipped with advanced tools like NI ELVIS boards, spectrophotometers, X-ray diffractometers, biosafety cabinets,fostering innovation and scientific excellence.</h5>
+		</div>
+		<div class="facilities-col">
+			<img src="images/motivation.jpg">
+			<h3>Motivation Sessions</h3><h5>SRM University-AP conducts motivational sessions through events like Freshmen Orientation, "UDAAN," and the School Immersion Programme. Renowned speakers inspire students, fostering academic excellence, entrepreneurship, and life skills. These sessions help students integrate into campus life, boost confidence, and enhance career readiness.</h5>
+		</div>
+	</div>
+</section>
+<!-------------------------------------------Footer------------------------------------------->
+<section class="footer">
+	<h4>About Us</h4>
+	<p1>SRM University-AP is a premier multidisciplinary institution in Andhra Pradesh, India, fostering innovation,<br>research, and global learning with top faculty and state-of-the-art infrastructure.<br>
+    </p1>
+	<div class="icons">
+        <div class="icon1">
+        <a href="https://www.facebook.com/share/1AGtgZ9DKc/" target="_blank" style="text-decoration: none">
+		  <i class="fa fa-2x fa-facebook"><br></i>
+        </a>
+        </div>
+        
+        <div class="icon1">
+        <a href="https://www.instagram.com/srmuap?igsh=MjFlMDdtMGZmMm02" target="_blank" style="text-decoration: none">
+		  <i class="fa fa-2x fa-instagram"><br></i>
+        </a>
+        </div>
+        
+        <div class="icon1">
+        <a href="https://www.youtube.com/@SRMUniversityAP" target="_blank" style="text-decoration: none">
+		  <i class="fa fa-2x fa-youtube"><br></i>
+        </a>
+        </div>
+	</div>
+	<p1>Made with <i class="fa fa-heart-o"></i> by <a href="https://www.instagram.com/kretee_ka/" target="_blank" style="text-decoration:none; color: black;"><b>Kanchan Yadav</b></a></p1><br>
+    <p1>All Right Reserved 2025</p1>
+</section>
+<!------------------------------------JavaScript for Toggle Menu--------------------------------->
+<script>
+	var navLinks = document.getElementById("navLinks");
+    
+	function showMenu(){
+		navLinks.style.right = "0";
+	}
+	function hideMenu(){
+		navLinks.style.right = "-200px";
+	}
+</script>
+</body>
+</html>
