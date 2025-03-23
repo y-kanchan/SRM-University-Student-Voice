@@ -108,7 +108,16 @@ To deploy this project on a local environment, adhere to the following steps:
 The following screenshots provide a visual representation of the SRM University-AP website and its key functionalities:
 
 - **Homepage**
- ![Homepage Screenshot](screenshots/homepage-screenshot.png)
+
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/f5cd10790868f07ba01bba4830f0c7f8631a5dde/screenshots/Home.png)
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/f5cd10790868f07ba01bba4830f0c7f8631a5dde/screenshots/Home.png)
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/f5cd10790868f07ba01bba4830f0c7f8631a5dde/screenshots/Home.png)
+
+
+
+
+
+
 
 - **Contact Us Page**: 
   ![Contact Us Screenshot](screenshots/contact-us-screenshot.png)
