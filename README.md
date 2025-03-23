@@ -110,23 +110,38 @@ The following screenshots provide a visual representation of the SRM University-
 - **Homepage**
 
  ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/f5cd10790868f07ba01bba4830f0c7f8631a5dde/screenshots/Home.png)
- ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/f5cd10790868f07ba01bba4830f0c7f8631a5dde/screenshots/Home.png)
- ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/f5cd10790868f07ba01bba4830f0c7f8631a5dde/screenshots/Home.png)
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/home1.png)
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/home2.png)
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/home3.png)
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/home4.png)
+ ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/home5.png)
+
+-**About**
+
+ ![Aboutpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/about.png)
+ ![Aboutpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/about1.png)
+ ![Aboutpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/about2.png)
 
 
+-**Course**
 
+ ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course.png)
+ ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course1.png)
+ ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course2.png)
+ ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course3.png)
 
+ -**Contact**
+ 
+ ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/contact.png)
+ ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/contact1.png)
+ ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/contact2.png)
 
-
-
-- **Contact Us Page**: 
-  ![Contact Us Screenshot](screenshots/contact-us-screenshot.png)
-
-- **Student Voice Login**:
-  ![Student Voice Login Screenshot](screenshots/student-voice-login-screenshot.png)
-
-- **Student Voice Dashboard**:
-  ![Student Voice Dashboard Screenshot](screenshots/student-voice-dashboard-screenshot.png)
+ -**Student Voice**
+ 
+ ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice.png)
+ ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice1.png)
+ ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice2.png)
+ ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice3.png)
 
 ## Contributing
 
