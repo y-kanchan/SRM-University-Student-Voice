@@ -1,0 +1,25 @@
+SRM-University-AP-Website/
+│
+├── images/                     # Folder for images used in the website
+│   ├── logo.png                # SRM University-AP logo
+│   ├── buildingG.jpg           # Background image for the header
+│   ├── background.jpg          # Background image for sub-header
+│   ├── library.jpg             # Image for library facility
+│   ├── lab.jpg                 # Image for lab facility
+│   ├── motivation.jpg          # Image for motivation sessions
+│   ├── inclusive1.jpg          # Image for inclusiveness & diversity
+│   ├── female1.png             # Image for student count
+│   ├── basketball1.jpg         # Image for ECAs & events
+│   ├── profile1.png            # Testimonial profile image (Nelson)
+│   ├── profile2.jpg            # Testimonial profile image (Alice)
+│   ├── orientation.jpg         # Background image for Call to Action
+│   └── fact.jpg                # Image linked in About Us page
+│
+├── index.html                  # Homepage of the website
+├── about.html                  # About Us page
+├── course.html                 # Courses and Facilities page
+├── contact.html                # Contact Us page
+├── login.php                   # Login page for Student Voice portal
+├── index.php                   # Main dashboard for Student Voice portal
+├── style.css                   # CSS stylesheet for the website
+└── README.md                   # This README file
