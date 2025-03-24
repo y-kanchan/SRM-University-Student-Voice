@@ -8,6 +8,7 @@ This repository contains the source code for the website of SRM University-Stude
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -67,7 +68,7 @@ To deploy this project on a local environment, adhere to the following steps:
 1. **Clone the Repository** (or download the ZIP file):
    git clone https://github.com/your-username/SRM-University-AP-Website.git
 
-   2. **Configure a Local Server**:
+2. **Configure a Local Server**:
 - Install XAMPP or WAMP and initiate the Apache and MySQL services.
 - Transfer the project folder to the `htdocs` directory (e.g., `C:/xampp/htdocs/SRM-University-AP-Website`).
 3. **Access the Website**:
@@ -116,32 +117,37 @@ The following screenshots provide a visual representation of the SRM University-
  ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/home4.png)
  ![Homepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/home5.png)
 
--**About**
+
+- **About**
 
  ![Aboutpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/about.png)
  ![Aboutpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/about1.png)
  ![Aboutpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/about2.png)
 
 
--**Course**
+
+- **Course**
 
  ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course.png)
  ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course1.png)
  ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course2.png)
  ![Coursepage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/course3.png)
 
- -**Contact**
+
+ - **Contact**
  
  ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/contact.png)
  ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/contact1.png)
  ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/contact2.png)
 
- -**Student Voice**
+
+ - **Student Voice**
  
  ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice.png)
  ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice1.png)
  ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice2.png)
  ![Contactpage Screenshot](https://github.com/y-kanchan/SRM-University-Student-Voice/blob/43f85cf2f832ff6acdd05c7f4e764329b5803581/screenshots/studentvoice3.png)
+
 
 ## Contributing
 
